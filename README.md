@@ -5,7 +5,7 @@ A Google Keep-inspired note-taking app built with React, Vite, JavaScript, JSX, 
 
 ## Live Demo
 
-[View the live app](https://your-deployed-url.com)
+gkeep-clone-vusim.netlify.app
 
 ## Features
 
@@ -104,6 +104,6 @@ npm run preview
 
 Clone the repository
 
-git clone https://github.com/skhokho12/youtube-clone.git
+https://github.com/skhokho12/google-keep-assgn.git
 
 Navigate to the project
